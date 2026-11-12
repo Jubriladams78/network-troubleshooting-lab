@@ -2,7 +2,7 @@
 
 Hands on network troubleshooting completed for my B.S. in Cloud and Network Engineering (Microsoft Azure) at Western Governors University. I worked six help desk tickets in a simulated enterprise network and passed all six with a 100% score in November 2026.
 
-![Lab result: Completed, 100% success score, 6 of 6 tickets passed](lab-result.png)
+![Lab result: Completed, 100% success score, 6 of 6 tickets passed](D412%20Lab%20Result%20100%20percent.png)
 
 > This repo documents my methods and the tools I used. It intentionally leaves out the specific ticket answers, because the simulation is a graded assessment that other students still take.
 
